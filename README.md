@@ -1,9 +1,9 @@
-<h1 align="center">TravelBrain</h1>
+<h1 align="center">TripSage AI</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-in%20progress-f59e0b.svg" alt="Status">
-  <a href="https://github.com/KalyanM45/TravelBrain-Multi-Agent-AI-Travel-Planner/issues"><img src="https://img.shields.io/github/issues/KalyanM45/TravelBrain-Multi-Agent-AI-Travel-Planner.svg" alt="GitHub Issues"></a>
-  <a href="https://github.com/KalyanM45/TravelBrain-Multi-Agent-AI-Travel-Planner/pulls"><img src="https://img.shields.io/github/issues-pr/KalyanM45/TravelBrain-Multi-Agent-AI-Travel-Planner.svg" alt="GitHub Pull Requests"></a>
+  <a href="https://github.com/Arslanabbas102/TripSage-AI-/issues"><img src="https://img.shields.io/github/issues/Arslanabbas102/TripSage-AI-.svg" alt="GitHub Issues"></a>
+  <a href="https://github.com/Arslanabbas102/TripSage-AI-/pulls"><img src="https://img.shields.io/github/issues-pr/Arslanabbas102/TripSage-AI-.svg" alt="GitHub Pull Requests"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-GPL--3.0-blue.svg" alt="License"></a>
 </p>
 
@@ -27,7 +27,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Planning a trip usually means juggling half a dozen browser tabs — one for flights, another for hotels, a third for the weather, and a notes app where you try to fit it all into a sensible order. TravelBrain collapses that into a single conversation. You describe the trip you want in your own words, the way you'd describe it to a friend — *"Plan a 10 day Europe trip from India in April, mid-range budget"* — and a team of AI specialists goes and researches it. One looks into flights, another finds places to stay, another checks what the weather will be doing while you're there. Their findings are then pulled together into a single plan you can actually act on, complete with a day-by-day schedule and a cost estimate. The result is a trip plan in about a minute, rather than an afternoon of research. Each part of the trip gets its own attention:
+Planning a trip usually means juggling half a dozen browser tabs — one for flights, another for hotels, a third for the weather, and a notes app where you try to fit it all into a sensible order. TripSage AI collapses that into a single conversation. You describe the trip you want in your own words, the way you'd describe it to a friend — *"Plan a 10 day Europe trip from India in April, mid-range budget"* — and a team of AI specialists goes and researches it. One looks into flights, another finds places to stay, another checks what the weather will be doing while you're there. Their findings are then pulled together into a single plan you can actually act on, complete with a day-by-day schedule and a cost estimate. The result is a trip plan in about a minute, rather than an afternoon of research. Each part of the trip gets its own attention:
 
 | | |
 |---|---|
@@ -63,8 +63,8 @@ You'll need the following before you start:
 Clone the repository and move into it:
 
 ```bash
-git clone https://github.com/KalyanM45/TravelBrain-Multi-Agent-AI-Travel-Planner.git
-cd TravelBrain-Multi-Agent-AI-Travel-Planner
+git clone https://github.com/Arslanabbas102/TripSage-AI-.git
+cd TripSage-AI-
 ```
 
 Install the dependencies:
@@ -226,7 +226,7 @@ and how you tested it.
 
 ### Reporting bugs and suggesting ideas
 
-Open an [issue](https://github.com/KalyanM45/TravelBrain-Multi-Agent-AI-Travel-Planner/issues).
+Open an [issue](https://github.com/Arslanabbas102/TripSage-AI-/issues).
 For bugs, include what you did, what you expected, what happened instead, and
 any error output from the terminal.
 
